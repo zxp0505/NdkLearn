@@ -1,0 +1,5 @@
+/build
+.cxx
+/src/androidTest
+/src/test/
+/proguard-rules.pro
